@@ -1,0 +1,13 @@
+node_modules
+dist
+out
+*.log*
+local_storage.sqlite
+local_storage.sqlite-shm
+local_storage.sqlite-wal
+python/**/__pycache__/
+python/**/credentials.py
+tmp.json
+tmp.html
+temp.json
+temp.html
